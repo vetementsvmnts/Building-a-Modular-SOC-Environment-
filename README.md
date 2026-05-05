@@ -11,7 +11,6 @@
 
 ## 🏗️ Architecture Overview
 
-![SOC Architecture](docs/images/soc-architecture.png)
 
 ## 📂 Repository Structure
 
